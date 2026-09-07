@@ -1,7 +1,4 @@
-"""
-MediKiosk AI Clinical History Platform — FastAPI Application Entry Point
-Registers all API routers, sets up CORS, loads environment config, and creates DB tables.
-"""
+
 import os
 from contextlib import asynccontextmanager
 
